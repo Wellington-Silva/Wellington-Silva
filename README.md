@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Sou Wellington!</h1>
+<h1 align="center">Olá 👋, sou Wellington!</h1>
 <h3 align="center">Atualmente resido em Lagarto-SE e sou Back-End developer na empresa DMI². Também sou estudante do curso Bacharelado em Sistemas de Informações no IFS campus Lagarto.</h3>
 
 <h3 align="left">Conecte-se comigo:</h3>
