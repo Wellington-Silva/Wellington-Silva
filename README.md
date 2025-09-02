@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I`m Wellington!</h1>
+<h1 align="center">Hello! I'm Wellington!</h1>
 <p align="center">I'm a Backend Developer and I also have a Bachelor's degree in Information Systems from the IFS Lagarto campus.</p>
 
 <h3 align="left">Languages ​​and Tools</h3>
