@@ -15,8 +15,7 @@
 
 ### 👨‍💻 Sobre mim
 - 🎓 Bachelor's degree in **Information Systems** (IFS - Lagarto/SE)  
-- 🔭 Currently working with **Node.js, TypeScript, and PostgreSQL**  
-- 🌱 Learning **NestJS** and **Unit Testing**  
+- 🔭 Currently working with **Node.js, TypeScript, Mongodb and PostgreSQL**  
 - 🚀 Passionate about backend development, APIs, and software architecture   
 
 ---
