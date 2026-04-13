@@ -1,5 +1,5 @@
-<h1 align="center">Hello! 👋 I'm Wellington</h1>
-<h3 align="center">💻 Backend Developer | 🌎 Brazil</h3>
+<h1 align="center">Hello! I'm Wellington</h1>
+<h3 align="center">💻 Software Developer | 🌎 Brazil</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/wellingtoncarvalhosilva" target="_blank">
